@@ -6,7 +6,7 @@ We will also be using the Serial Monitor built into arduino to transmit the anal
 
 ### Step One
 
-Build the circuit according to the provided diagram.
+Build the circuit according to the provided diagram.  Reuse the Component One circuit, how ever change the pin of the LED from 13 to 11.
 
 ### Step Two
 
