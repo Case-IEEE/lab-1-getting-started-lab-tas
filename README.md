@@ -35,8 +35,5 @@ We will expand upon the basic premise of the Second Component by adding a Serial
 In the third component, we will be using a potentiometer to control the brightness of an LED.  The LED is controlled via PWM, and the analog potentiometer input values are transmitted to our computers using the built in Serial Monitor
 			
 ## Closing thougts
-This is closing thoughts.
-		Now you know basics 
-		Thoughts on where to go from here
-			Simple ideas, with building blocks
+This is the basics of using an arduino. Through this, you can create almost anything by building with these building blocks, Digital I/O, Analog I/O, and the Serial interface.
 		
