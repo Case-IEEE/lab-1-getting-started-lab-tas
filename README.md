@@ -28,7 +28,7 @@ The second component is to learn about arduino logic and learning to use *input*
 	state = digitalRead(13);
 we set the variable `state` to the value retrieved through `digitalRead(13)`, which is the value of pin 13. 
 
-We will expand upon the basic premise of the Second Component by adding a Serial Monitor to the arduino code, so we can see the state of the system on our computer.  This will also introduce us to an important concept called __Debouncing__, which you will discover more about in the second exercise of this component.  This will also introduce you to Boolean Logic on an Arduino.
+This will also introduce us to an important concept called __Debouncing__. This will also introduce you to Boolean Logic on an Arduino.
 
 ### Third Component
 
