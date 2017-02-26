@@ -4,10 +4,7 @@ Component One is the easiest Lab you will be doing, but also one of the most cri
 
 ###Step One
 
-The first thing to do is create the circuit.  Below is the circuit schematic.
-
-[Circuit Here](lab-1-getting-started-lab-tas/ComponentOne/Screen Shot 2017-02-26 at 1.50.21 PM.png)
-
+The first thing to do is create the circuit.  Circuit can be found in Component One folder.
 
 ###Step Two
 
