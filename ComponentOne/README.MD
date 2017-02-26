@@ -23,3 +23,5 @@ The third step is to compile the code, and debug as needed.  Find the Check Butt
 ### Step Four
 
 The fourth step is to run the code on the board.  Find the Upload Button, and click it.
+
+If the board does not automatically connect, go to "Tools" > "Port" > "/dev/cu.usbmodem..."
