@@ -1,6 +1,6 @@
 #Component Two
 
-In Component Two we will be learning about logic, and digital input.  To do this we will create an arduino sketch that turns on the LED in the previous sketch when there is a button pushed.  To do this, we need to add a push button to our board.  See wiring diagram.
+In Component Two we will be learning about logic, and digital input.  To do this we will create an arduino sketch that turns on the LED in the previous sketch when there is a button pushed.  To do this, we need to add a push button to our board.  See wiring diagram for how to set up a push button. Then reuse the wiring from Component One to set up the LED on Pin 13.
 
 This time, we need to initialize a pin as an input.  We still use `pinMode` but this time, we use: `pinMode(5, INPUT);` to set pin 5 as an input.
 
@@ -34,5 +34,5 @@ if(buttonState==HIGH){
 
 ### Step Three
 
-Also in this Lab Componenet we will
+Set the if/else statement to toggle the LED on or off.  To do this we can reuse the code from Component One.
 
