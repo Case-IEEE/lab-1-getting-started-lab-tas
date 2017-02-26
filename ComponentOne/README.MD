@@ -4,11 +4,7 @@ Component One is the easiest Lab you will be doing, but also one of the most cri
 
 ###Step One
 
-The first thing to do is create the circuit.  Below is the circuit schematic.
-
-```
-Circuit Here
-```
+The first thing to do is create the circuit.  Circuit can be found in Component One folder.
 
 ###Step Two
 
@@ -27,3 +23,5 @@ The third step is to compile the code, and debug as needed.  Find the Check Butt
 ### Step Four
 
 The fourth step is to run the code on the board.  Find the Upload Button, and click it.
+
+If the board does not automatically connect, go to "Tools" > "Port" > "/dev/cu.usbmodem..."
