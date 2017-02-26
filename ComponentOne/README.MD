@@ -14,7 +14,7 @@ In the `setup()` method, initialize your pin from step one as an output. To do t
 
  Now, we have to edit the `loop()` method, including code that turns on pin, a timer, and code that turns off the pin.  These functions are `digitalWrite()` and `delay()`.  *digitalWrite* takes two arguments, an `int` cooresponding to the pin, and either `HIGH` or `LOW`.  *delay* takes one argument, an `int` cooresponding to the length of the delay, in milliseconds. This would look something like `digitalWrite(13, HIGH); delay(1000); `
  
-Attached to the repo is a blank sketch that you can use to structure your code.  Alternatively, there is a completed Blink sketch located there.
+Attached to the repo is a blank sketch that you can use to structure your code.  
 
 ### Step Three
 
