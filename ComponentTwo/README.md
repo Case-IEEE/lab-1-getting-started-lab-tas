@@ -10,7 +10,7 @@ Make the Circuit.
 
 This time, we need to initialize a pin as an input.  We still use `pinMode` but this time, we use: `pinMode(5, INPUT);` to set pin 5 as an input.
 
-In order read value from the pin, we use `digitalRead()` which returns the value of the pin. In our example, `buttonState = digitalRead(pushButtonPinNumber);` collects this vale. 
+In order read value from the pin, we use `digitalRead()` which returns the value of the pin. In our example, `buttonState = digitalRead(pushButtonPinNumber);` collects this value. 
 
 For a more complicated version of the Button lab, there is an attached *Debounce* sketch, which includes code to debounce the input.  This lab uses button pushes to toggle the LED from __on__ to __off__ and vice-versa.  
 
