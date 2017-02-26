@@ -14,9 +14,9 @@ In order read value from the pin, we use `digitalRead()` which returns the value
 
 For a more complicated version of the Button lab, there is an attached *Debounce* sketch, which includes code to debounce the input.  This lab uses button pushes to toggle the LED from __on__ to __off__ and vice-versa.  
 
-In order to use `buttonState` (`int`) we have to declare it as a global variable.  To do this we declare `int buttonState = 0;` before our `setup(){}` method.
+In order to use `buttonState` (an `int`) we have to declare it as a global variable.  To do this we declare `int buttonState = 0;` before our `setup()` method.
 
-if we want to change the behavior of our `loop()` depending on the `buttonState` we can use an *if* statement.  These *if* statements look like any other C based language.  
+If we want to change the behavior of our `loop()` depending on the `buttonState` we can use an *if* statement.  These *if* statements look like any other C based language.  
 
 ```
 if(buttonState==HIGH){
